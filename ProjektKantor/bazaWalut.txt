@@ -1,0 +1,16 @@
+EUR Euro 4.4422 4.4959 99139.6
+CHF Frank_szwajcarski 4.0797 4.131 7643
+USD Dolar_amerykanski 3.6489 3.693 99320.7
+GBP Funt_brytyjski 5.1593 5.2425 8232
+NOK Korona_norweska 0.4349 0.4517 103289
+SEK Korona_szwedzka 0.4388 0.4512 902312
+DKK Korona_dunska 0.5937 0.6081 120391
+CAD Dolar_kanadyjski 3.0094 3.061 12000
+AUD Dolar_australijski 2.8215 2.8699 10321
+RUB Rubel_rosyjski 0.049 0.0529 12032
+JPY Jen_japonski 0.0333 0.0338 123910
+CNY Yuan_chinski 0.5564 0.5892 213321
+CZK Korona_czeska 0.1735 0.1792 21329
+TRY Lira_turecka 0.4294 0.4424 11030
+HUF Forint_wegierski 0.0128 0.0131 102910
+PLN Zloty 1 1 10096.6
